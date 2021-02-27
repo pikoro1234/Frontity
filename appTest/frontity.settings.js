@@ -9,7 +9,7 @@ const settings = {
   },
   "packages": [
     {
-      "name": "@frontity/mars-theme",
+      "name": "@frontity/mi-primer-tema",
       "state": {
         "theme": {
           "menu": [

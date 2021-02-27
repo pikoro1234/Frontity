@@ -1,0 +1,82 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.46.0",
+  "hash": "7c18b5cfe3dc690f40c7",
+  "publicPath": "/static/",
+  "outputPath": "/home/jorge/Escritorio/Frontity/appTest/build/static",
+  "assetsByChunkName": {
+    "apptest": "apptest.module.js"
+  },
+  "assets": [
+    {
+      "name": "apptest.module.js",
+      "size": 6100253,
+      "chunks": [
+        "apptest"
+      ],
+      "chunkNames": [
+        "apptest"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "apptest": {
+      "chunks": [
+        "apptest"
+      ],
+      "assets": [
+        "apptest.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "apptest": {
+      "chunks": [
+        "apptest"
+      ],
+      "assets": [
+        "apptest.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "chunks": [
+    {
+      "id": "apptest",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 1498242,
+      "names": [
+        "apptest"
+      ],
+      "files": [
+        "apptest.module.js"
+      ],
+      "hash": "05843a8169864a0c50e2",
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    }
+  ],
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": [],
+  "generator": "loadable-components"
+}
